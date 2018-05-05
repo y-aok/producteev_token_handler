@@ -1,0 +1,3 @@
+client_id: hoge
+client_secret: huga
+redirect_uri: http://your_host_ip:5000/producteev_init
